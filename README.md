@@ -6,4 +6,8 @@ exchange rate server retrieves exchange rates from https://open.exchangerate-api
 
 In the project directory, you can run:
 
+install dependencies first
+### npm install
+
+start the server
 ### npm start
